@@ -1,4 +1,6 @@
-MY_Input
+CodeigniterCore
 ========
 
-This is a basic CI_Input class extension for CodeIgniter 2.1+ that just adds some simple helper methods I find useful.
+This is a collection of basic Codeigniter Core extension classes that I find particularly useful.
+
+It will continue to grow over time.
